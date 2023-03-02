@@ -3,10 +3,15 @@
     android:keyWidth="10%p"
     android:horizontalGap="4dp"
     android:verticalGap="4dp"
-    android:keyHeight="52dp"
-    android:keyTextColor="#000000">
+    android:keyHeight="45dp"
+    android:keyTextColor="#000000"
+
+    >
+
+
 
     <Row>
+
         <Key android:codes="49" android:keyLabel="1" android:keyEdgeFlags="left"/>
         <Key android:codes="50" android:keyLabel="2"/>
         <Key android:codes="51" android:keyLabel="3"/>
@@ -17,6 +22,7 @@
         <Key android:codes="56" android:keyLabel="8"/>
         <Key android:codes="57" android:keyLabel="9"/>
         <Key android:codes="48" android:keyLabel="0"/>
+
     </Row>
     <Row>
         <Key android:codes="113" android:keyLabel="q" android:keyEdgeFlags="left"/>
@@ -55,6 +61,6 @@
     <Row android:rowEdgeFlags="bottom">
         <Key android:codes="44" android:keyLabel="123" android:keyWidth="25%p"  android:keyEdgeFlags="left"/>
         <Key android:codes="32" android:keyLabel="space" android:keyWidth="75%p" android:isRepeatable="true"/>
-        <Key android:codes="-4" android:keyBackground="@color/white" android:keyLabel="return" android:keyWidth="25%p" android:keyEdgeFlags="right"/>
+        <Key android:codes="-4" android:keyBackground="@color/white" android:keyIcon="@drawable/ic_baseline_subdirectory_arrow_left_24" android:keyWidth="25%p" android:keyEdgeFlags="right"/>
     </Row>
 </Keyboard>

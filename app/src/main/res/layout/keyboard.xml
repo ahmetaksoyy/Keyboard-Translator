@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <android.inputmethodservice.KeyboardView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:keyPreviewLayout="@layout/key_preview"
+    android:keyBackground="@color/whiteSmoke"
+    android:keyTextColor="@color/lightBlack"
+    android:keyPreviewHeight="70sp"
+    android:id="@+id/keyboard"
 
-    android:id="@+id/keyboard">
+    >
 
 </android.inputmethodservice.KeyboardView>
+
+
+

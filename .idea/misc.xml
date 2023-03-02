@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Ahmet/Desktop/project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.198" />
+        <entry key="..\:/Users/Ahmet/Desktop/project/app/src/main/res/drawable/ic_baseline_arrow_circle_up_24.xml" value="0.198" />
         <entry key="..\:/Users/Ahmet/Desktop/project/app/src/main/res/drawable/ic_baseline_backspace_24.xml" value="0.198" />
+        <entry key="..\:/Users/Ahmet/Desktop/project/app/src/main/res/drawable/ic_baseline_subdirectory_arrow_left_24.xml" value="0.198" />
+        <entry key="..\:/Users/Ahmet/Desktop/project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.198" />
         <entry key="..\:/Users/Ahmet/Desktop/project/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Ahmet/Desktop/project/app/src/main/res/layout/key_preview.xml" value="0.253125" />
-        <entry key="..\:/Users/Ahmet/Desktop/project/app/src/main/res/layout/keyboard.xml" value="0.253125" />
+        <entry key="..\:/Users/Ahmet/Desktop/project/app/src/main/res/layout/keyboard.xml" value="0.264" />
+        <entry key="..\:/Users/Ahmet/Desktop/project/app/src/main/res/layout/keyboard2.xml" value="0.1" />
         <entry key="..\:/Users/Ahmet/Desktop/project/app/src/main/res/xml/keys.xml" value="0.20854700854700856" />
         <entry key="..\:/Users/Ahmet/Desktop/project/app/src/main/res/xml/method.xml" value="0.25416666666666665" />
       </map>
