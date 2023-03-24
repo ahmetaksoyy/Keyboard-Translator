@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351251703203",
+    "project_id": "translate-keyboard-5cc55",
+    "storage_bucket": "translate-keyboard-5cc55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351251703203:android:a1be65c7d0b909be8f2616",
+        "android_client_info": {
+          "package_name": "com.ahmetaksoy.translatorkeyboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351251703203-qtubiafnuudc2dfg0ll40o9t6uphadta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFHDH_Q46-ohxWdetTNBG8raBOPN1UKq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351251703203-qtubiafnuudc2dfg0ll40o9t6uphadta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
